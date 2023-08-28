@@ -1,10 +1,10 @@
-[stars-img]: https://img.shields.io/github/stars/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?color=yellow
-[stars-url]: https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering/stargazers
-[fork-img]: https://img.shields.io/github/forks/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?color=lightblue&label=fork
-[fork-url]: https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering/network/members
+[stars-img]: https://img.shields.io/github/stars/dzboop/Awesome-Deep-Multi-model?color=yellow
+[stars-url]: https://github.com/dzboop/Awesome-Deep-Multi-model/stargazers
+[fork-img]: https://img.shields.io/github/forks/dzboop/Awesome-Deep-Multi-model?color=lightblue&label=fork
+[fork-url]: https://github.com/dzboop/Awesome-Deep-Multi-model/network/members
 
 
-# Awesome-Deep-Multiview-Clustering
+# Awesome-Deep-Multi-model
 Collections for state-of-the-art and novel deep neural network-based multi-view clustering approaches (papers & codes). According to the integrity of multi-view data, such methods can be further subdivided into Deep Multi-view Clustering(**DMVC**) and Deep Incomplete Multi-view Clustering(**DIMVC**).
 
 We are looking forward for other participants to share their papers and codes. If interested or any question about the listed papers and codes, please contanct <jinjiaqi@nudt.edu.cn>. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: If you use our code or the processed datasets in this repository for your research, please cite 1-2 papers in the citation part [here](#jump4). :heart:
